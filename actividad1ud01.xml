@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <departamentos>
+        <departamento numero="1" nombre="administracion"> "</departamento>
+        <tipo_puesto tipo="usuario">
+            <puesto ID="B123"></puesto>
+            <puesto ID="B124"></puesto>
+        </tipo_puesto>
+        <tipo_puesto tipo="instalacion">
+            <puesto ID="F123" ></puesto>
+            <puesto ID="F124"></puesto>
+        </tipo_puesto>
+        <departamento numero="1" nombre="venta"></departamento>
+    </departamentos>
+</empresa>
